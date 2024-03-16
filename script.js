@@ -12,7 +12,7 @@ menuIcon.onclick = () => {
     GitHubCalendar(".calendar", "rohitsingh1816");
 
     // or enable responsive functionality:
-    GitHubCalendar(".calendar", "0avinashmohandev1", { responsive: true });
+    GitHubCalendar(".calendar", "rohitsingh1816", { responsive: true });
 
 // *=============================== resume opening in a new tab ==================================
 
@@ -22,7 +22,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/1YLoWitGE5wrWJZW5pUJ_MO65do3NOka1/view?usp=drive_link",
+        "https://drive.google.com/file/d/1aIhzcVk3cUVZ9OwIIkjLFnu_nxLrk0qm/view?usp=drive_link",
         "_blank"
       );
     }
