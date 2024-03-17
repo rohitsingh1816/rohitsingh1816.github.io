@@ -157,8 +157,8 @@
     align-items: center;
   }
   .home-img  img{
-    width: 8px;
-    height: 5px;
+    width: 10px;
+    height: 10px;
     animation: floatImage 4s ease-in-out infinite;
   }
   @keyframes floatImage {
@@ -385,6 +385,7 @@
     
     .project-layer h4 {
       font-size: 3rem;
+      color: coral;
     }
     .project-tech-stack {
       font-size: 2rem;
@@ -392,6 +393,7 @@
     .project-layer p {
       font-size: 1.5rem;
       margin: .3rem 0 1rem;
+      color: rgb(0, 68, 255);
     }
     .project-layer a {
       display:inline-block;
